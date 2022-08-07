@@ -2,10 +2,12 @@
     {
         "userId": 1,
         "id": "1",
-        "name": {
+        "name": [
+                {
                   "firstName": "Hamza", 
                    "lastName": "Hameed",
                 },
+        ]
         "email": "hhameed032444@gmail.com",
         "website": "www.loadedmart.com",
         "mobile": "03004125387",
