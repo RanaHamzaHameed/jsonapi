@@ -2,12 +2,10 @@
     {
         "userId": 1,
         "id": "1",
-        "name": [
-                {
+        "name": {
                   "firstName": "Hamza", 
                    "lastName": "Hameed",
-                },
-        ]
+        },
         "email": "hhameed032444@gmail.com",
         "website": "www.loadedmart.com",
         "mobile": "03004125387",
@@ -17,12 +15,10 @@
     {
         "userId": 2,
         "id": "2",
-        "name": [
-                {
-                  "firstName": "Hamza", 
-                   "lastName": "Hameed",
-                },
-        ]
+        "name": {
+                  "firstName": "ABC", 
+                   "lastName": "XYZ",
+        },
         "email": "vinod@technical.com",
         "website": "https://www.youtube.com/thapatechnical",
         "mobile": "1234567899",
